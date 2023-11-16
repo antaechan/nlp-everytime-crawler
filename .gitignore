@@ -133,3 +133,4 @@ dmypy.json
 
 chromedriver_win32
 /data
+/ret_data
